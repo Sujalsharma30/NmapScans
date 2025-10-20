@@ -1,0 +1,6 @@
+# Nmap 7.98 scan initiated Mon Oct 20 22:06:15 2025 as: "file path" -sS -sV -T4 -oA scan_home_2025-10-20 10.xxx.xxx.x/xx
+Host: 10.xxx.xxx.xx ()	Status: Up
+Host: 10.xxx.xxx.xx ()	Ports: 53/open/tcp//domain//dnsmasq 2.51/	Ignored State: closed (999)
+Host: 10.xxx.xxx.xx ()	Status: Up
+Host: 10.xxx.xxx.xx ()	Ports: 135/open/tcp//msrpc//Microsoft Windows RPC/, 139/open/tcp//netbios-ssn//Microsoft Windows netbios-ssn/, 445/open/tcp//microsoft-ds?///, 2179/open/tcp//vmrdp?///, 3306/open/tcp//mysql//MySQL (unauthorized)/, 5357/open/tcp//http//Microsoft HTTPAPI httpd 2.0 (SSDP|UPnP)/	Ignored State: closed (994)
+# Nmap done at Mon Oct 20 22:06:48 2025 -- 256 IP addresses (2 hosts up) scanned in 33.82 seconds
