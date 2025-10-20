@@ -4,7 +4,7 @@
 Date 2025-10-20  
 Target subnet scanned 10.xxx.xxx.xx  
 Host used for scanning 10.xxx.xx.xx  
-Nmap command used nmap -sS -sV -T4 -oA scan_home_2025-10-20 10.174.183.024  
+Nmap command used nmap -sS -sV -T4 -oA scan_home_2025-10-20 10.xx.xx.xx
 
 ## Files
 - `scan_home_2025-10-20.nmap` — human readable report
